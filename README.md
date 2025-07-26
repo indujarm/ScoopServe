@@ -1,4 +1,6 @@
 🍨 ScoopServe
+
+
 ScoopServe is a microservices-based Ice Cream Ordering System built using Spring Boot. The project is composed of independent services for handling ice cream inventory, order management, and coupon-based discounts. All services are registered with Eureka Server and routed through a centralized API Gateway.
 
 Each service is fully documented using Swagger UI for easy API testing and exploration.
